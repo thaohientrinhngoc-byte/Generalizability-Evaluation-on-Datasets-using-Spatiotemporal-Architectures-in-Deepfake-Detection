@@ -1,0 +1,12 @@
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.22.0
+pandas>=1.4.0
+opencv-python>=4.6.0
+insightface>=0.7.3
+onnxruntime-gpu>=1.15.0
+tqdm>=4.64.0
+scikit-learn>=1.0.0
+scipy>=1.8.0
+matplotlib>=3.5.0
+seaborn>=0.11.2

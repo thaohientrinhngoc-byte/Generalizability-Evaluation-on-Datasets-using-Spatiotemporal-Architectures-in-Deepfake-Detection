@@ -1,0 +1,41 @@
+# Python / PyTorch IGNORE
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyTorch Checkpoints & Outputs
+*.pth
+*.pt
+*.onnx
+logs/
+results/
+processed_dataset/
+models_checkpoints/
+/kaggle/
+
+# Environments & IDEs
+.env
+.venv
+env/
+venv/
+ENV/
+.vscode/
+.idea/
+*.ipynb_checkpoints
