@@ -64,8 +64,8 @@ See [`dataset_links.md`](dataset_links.md) for direct download links:
 Clone this repository and install dependencies:
 
 ```bash
-git clone https://github.com/thaohientrinhngoc-byte/Deepfakes-Video-Detection.git
-cd Deepfakes-Video-Detection
+git clone https://github.com/thaohientrinhngoc-byte/Deepfake-Generalizability.git
+cd Deepfake-Generalizability
 pip install -r requirements.txt
 ```
 
